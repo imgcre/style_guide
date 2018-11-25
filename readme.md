@@ -61,9 +61,9 @@ const int kDaysInAWeek = 7;
 
 对于按首字母缩写的单词，应该将其视为普通单词进行命名。例如命名为`StartRpc()`而非`StartRPC()`。  
 ``` c++
-AddTableEntry()
-DeleteUrl()
-OpenFileOrDie()
+AddTableEntry();
+DeleteUrl();
+OpenFileOrDie();
 ```
 
 ### 类
@@ -94,7 +94,7 @@ C++文件以`.cc`结尾，头文件以`.h`结尾。
 
 ### 枚举
 对枚举类型使用类命名的规则，对枚举值使用常量命名的规则。  
-```
+``` c++
 enum UrlTableErrors {
     kOK = 0,
     kErrorOutOfMemory,
