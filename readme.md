@@ -3,9 +3,9 @@
 - [x] [命名规范](naming)  
 - [x] [格式](formatting)  
 - [x] [函数](functions)  
-- [ ] 类  
+- [x] [类](classes)  
 - [ ] 其他c++特性  
-- [ ] 注释
+- [ ] 注释  
 
 
 
