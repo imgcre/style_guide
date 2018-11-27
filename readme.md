@@ -6,9 +6,3 @@
 - [x] [类](classes)  
 - [x] [其他c++特性](others)  
 - [x] [注释](comments)  
-
-
-
-//TODO  
-请使用强枚举类型  
-请在局部变量中使用auto  
