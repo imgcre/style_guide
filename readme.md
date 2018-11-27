@@ -4,7 +4,7 @@
 - [x] [格式](formatting)  
 - [x] [函数](functions)  
 - [x] [类](classes)  
-- [ ] 其他c++特性  
+- [x] [其他c++特性](others)  
 - [ ] 注释  
 
 
