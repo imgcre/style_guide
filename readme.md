@@ -5,7 +5,7 @@
 - [x] [函数](functions)  
 - [x] [类](classes)  
 - [x] [其他c++特性](others)  
-- [ ] 注释  
+- [x] [注释](comments)  
 
 
 
